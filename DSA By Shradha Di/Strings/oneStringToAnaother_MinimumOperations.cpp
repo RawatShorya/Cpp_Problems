@@ -39,8 +39,8 @@ int calculation(string a, string b)
 
 int main()
 {
-    cout<<"Hello";
-    // string a = "HELLO";
-    // string b = "LLEHO";
-    // cout<<"Min No. of Operations: "<<calculation(a, b);
+    string a = "HELLO";
+    string b = "LLEHO";
+    cout<<"Min No. of Operations: "<<calculation(a, b);
+    return 0;
 }
